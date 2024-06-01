@@ -8,6 +8,6 @@ class MainController
 {
 #[Route('/')]
 public function homepage(){
-return new Response('<strong>Startshop</strong>: This is the shop where Every body likes to shop!');
+return new Response('<strong>Startshop</strong>: This is the world class where Every body likes to shop!');
 }
 }
